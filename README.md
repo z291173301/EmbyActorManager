@@ -1,2 +1,2 @@
-# emby-actor-manager
+# EmbyActorManager
 emby actor manager
