@@ -1,2 +1,3 @@
 # EmbyActorManager
-emby actor manager
+EmbyActorManager
+Emby演员管理工具
